@@ -1,0 +1,400 @@
+{
+  "href": "https://api.spotify.com/v1/shows/38bS44xjbVVZ3No3ByF1dJ/episodes?offset=5&limit=10&market=ES",
+  "items": [
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/4aafa23b4da4f979c32d15ea3c9cf29b0e61b122",
+      "description": "Mysteriet med tsardottern som mirakulöst överlevde arkebuseringen har fascinerat oss i hundra år. Tobias Svanelid går till botten med historien om den främsta av alla Anastasiakopior - Anna Andersson.  I februari 1920 fiskades en ung kvinna upp ur en kanal i Berlin. På sinnessjukhuset hon hamnade påstod hon att hon var Anastasia, den enda överlevande av den arkebuserade siste ryske tsarens barn. Tobias Svanelid pratar med historieprofessorn Klas-Göran Karlsson för att ta reda på vad som egentligen hände med tsarfamiljen och hur Anna Andersson, den mest kända av alla Anastasiakopior, förde sin kamp för erkännande. Dessutom svarar Dick Harrison på en fråga om Asterix  hur trovärdiga är egentligen Asterixalbumen enligt en historiker? Vill du höra hela sändningen från Radiohuset där bland annat Vetenskapsradion Historia firade sitt 20-årsjubileum. Klicka här!",
+      "duration_ms": 2685023,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4wlcH1uJh1aWmavhD0kdLk"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4wlcH1uJh1aWmavhD0kdLk",
+      "id": "4wlcH1uJh1aWmavhD0kdLk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/00e40f42f44b33c35bc9621c188b760f20fa4a47",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/847506de9cf9150e137f4ca1fc35a5972c3d07e6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6e91312156ca43d2e17139ae6c8960e853152408",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "sv",
+      "languages": [
+        "sv"
+      ],
+      "name": "Mysteriet Anastasia vill aldrig lösas",
+      "release_date": "2020-02-18",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:4wlcH1uJh1aWmavhD0kdLk"
+    },
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/5e2302b4823017edfe1e1eda297ae1a3d54df98a",
+      "description": "Kulturstaden Dresden jämnades med marken i februari 1945 och i lågorna omkom minst 25 000 människor. Tobias Svanelid undersöker om bombningen var strategiskt befogad och hur man minns händelsen idag.  Den 13 februari 1945 drog flyglarmet igång i tyska staden Dresden. Ett dygn senare skulle minst 25 000 människor ha omkommit i brandbombernas lågor och av kulturstaden vid Elbe återstod bara rykande ruiner. Tobias Svanelid diskuterar bombningen av Dresden, ett av världskrigets stora tvisteämnen, med historikern Lars Ericson Wolke. Dessutom svarar Dick Harrison på en lyssnarfråga om en annan välkänd brandkatastrof, den på Stockholms Slott 1697, och vad den branden innebar för vår kunskap om svensk historia.",
+      "duration_ms": 2685023,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3l0C4xt36Q3sr9WHnMoQG7"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3l0C4xt36Q3sr9WHnMoQG7",
+      "id": "3l0C4xt36Q3sr9WHnMoQG7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e3bd98b43bcd1bda1bcec9bd51cd2139463adafb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/980316218a3ad80fb14d3d6d7fed90f9f51a72e1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ce2ce41bcd71e9a5e0177e419c1882e748518511",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "sv",
+      "languages": [
+        "sv"
+      ],
+      "name": "När Tyskland brann – bombningen av Dresden 1945",
+      "release_date": "2020-02-11",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:3l0C4xt36Q3sr9WHnMoQG7"
+    },
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/5febd20c051284b75f6435ff6ead43b637ec09e0",
+      "description": "Storpolitik på hög nivå när Roosevelt, Churchill och Stalin träffades 1945 - Tobias Svanelid reder ut hur världen omformades i Jalta. Och så lanseras en ny teori om mystiska Dyatlovolyckan 1959.  I februari 1945 träffades USA:s, Storbritanniens och Sovjetunionens ledare i Jalta för att bestämma om världens öde efter kriget. Men det var tre stormakter som drog åt helt olika håll, och Tobias Svanelid träffar historieprofessorerna Kent Zetterberg och Kristian Gerner för att ta reda på hur och om man över huvud taget kunde enas vid Jalta. Dessutom diskuterar man frågan om hur vi än idag lever i svallvågorna av besluten vid Jalta för 75 år sedan. Vi får också en rapport från arkeologen Richard Holmgren som var den förste som häromåret skidade till mytomspunna Dyatlovpasset i Uralbergen. Den oförklarliga Dyatlovolyckan 1959 har nu återigen börjat utredas av ryska myndigheter, men Richard Holmgren har en egen teori som han bättre tycker förklarar ett av 1900-talets största mysterium, när nio skidåkare omkom i det vintriga passet.",
+      "duration_ms": 2685023,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3row2motELXDJHgRRJPHf5"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3row2motELXDJHgRRJPHf5",
+      "id": "3row2motELXDJHgRRJPHf5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ae4b7edd0c6ef9dc3843fdb41b68b820df78ed51",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/21552ce3c1f3a902174211e0aa9cfc8a9542f19b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5ce89374aa08e5ce59a14eb12e250b9e75e44a38",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "sv",
+      "languages": [
+        "sv"
+      ],
+      "name": "Jaltakonferensen 1945 beseglade världens öde",
+      "release_date": "2020-02-04",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:3row2motELXDJHgRRJPHf5"
+    },
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/a48a69a39dad5cd2ad3a3cafa7ea7c3416b4b6ea",
+      "description": "Världshistoriens värsta fartygskatastrof inträffade i Östersjön för 75 år sedan. Hör om Wilhelm Gustloffs undergång och de andra fartygsförlisningarna som 1945 förvandlade Östersjön till Dödens hav.  För 75 år sedan sänktes det tyska fartyget Wilhelm Gustloff av en sovjetisk ubåt i vad som räknas som den värsta fartygskatastrofen i världshistorien. Mer än 9000 människor, många av dem barn, gick under i det iskalla vattnet och tiotusentals fler skulle följa med i djupet under de sista krigsmånaderna 1945, då Östersjön förvandlades till Dödens hav. Tobias Svanelid träffar fartygshistorikern Claes-Göran Wetterholm som berättar om de gripande fartygstragedierna vårvintern 1945. Dessutom granskar vi bioaktuella storfilmen 1917, och så förklarar Dick Harrison hur nazisterna kunde motivera att lägga stora resurser på judeutrotningen mitt under brinnande världskrig i veckans lyssnarfråga.",
+      "duration_ms": 2685023,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7FiesSNgnkCM1EAehMyElH"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7FiesSNgnkCM1EAehMyElH",
+      "id": "7FiesSNgnkCM1EAehMyElH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9b065087f2100fc2d2cd0ff6612f13143f0c937c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/bfe144565c36c11c680e183aa847d6ac3e555157",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/decffaf413832e07b1c531fd305f7da78fb1f23a",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "sv",
+      "languages": [
+        "sv"
+      ],
+      "name": "Dödens hav – Östersjön 1945",
+      "release_date": "2020-01-28",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:7FiesSNgnkCM1EAehMyElH"
+    },
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/dc162013c8681a456f8e073d0007eb4b4e92047b",
+      "description": "Hör om drömtydaren Artemidoros av Daldis, antikens Freud, om hur häxprocesserna påverkade vår syn på hur drömmar kunde påverka människokroppen och om den fruktansvärda Maran som smög in om natten.  Vi sover en tredjedel av våra liv, men trots det har våra drömmar sällan stått i fokus för historisk forskning, trots att de inte sällan påverkat våra liv. Först nu börjar olika forskarlag undersöka drömmarnas historia och hur olika vi förstått och tolkat drömmar under de senaste tvåtusen åren. Tobias Svanelid träffar forskarna som undersöker allt ifrån antikens Freud  Artemidoros av Daldis  till häxprocessernas mystiska drömresor och den fruktansvärda Maran som red gårdsfolket om natten.",
+      "duration_ms": 2685023,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2JDZf5OK3HrdJJ7k1XfNjd"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2JDZf5OK3HrdJJ7k1XfNjd",
+      "id": "2JDZf5OK3HrdJJ7k1XfNjd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/10e4684a30208960bfa795f4690a1b1a41cdc8c6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/b434f775061c1b109b70629e44d47d30bfa23e08",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2592e0d4cb07c67922fb632a8ca3cdb5c508623b",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "sv",
+      "languages": [
+        "sv"
+      ],
+      "name": "Maror och antikens Freud – om drömmarnas historia",
+      "release_date": "2020-01-21",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:2JDZf5OK3HrdJJ7k1XfNjd"
+    },
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/32d9bb91ab24dbbbe6958b49886cd79d201f4e76",
+      "description": "Hör om familjen Rockefeller och deras Standard Oil som en gång skapade världens största förmögenhet men som idag används för att finansiera klimatforskning. Och så pratar vi med den Arga historikern.  För 150 år sedan grundades Standard Oil, företaget som skulle bli ett av världens största och vars grundare John D Rockefeller skulle bli världens rikaste. Vetenskapsradion Historia träffar teknikhistorikern Jacob Nordangård som berättar företagets och familjens historia och hur familjeförmögenheten växlades till kulturellt och politiskt kapital och hur oljepengar idag används inom miljörörelsen. Dessutom uppmärksammas projektet Den arga historikern som vill göra historikerna mer synliga i samhällsdebatten. Och så svarar Dick Harrison på lyssnarfrågan om huruvida rika personer hade lättare att klara sig undan pesten än fattiga. Programledare är Tobias Svanelid.",
+      "duration_ms": 2685023,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4JnRfKf450IJyyTihmpCbH"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4JnRfKf450IJyyTihmpCbH",
+      "id": "4JnRfKf450IJyyTihmpCbH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4b19c00d7d8b70c4537f5600cbfe609ac8778484",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/9ac4268d29012f09ea7ed42a6a711dae1ed51000",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/1370b8febd7fe48cd6dfd7f9de50cf521b2704fe",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "sv",
+      "languages": [
+        "sv"
+      ],
+      "name": "Rockefellers Standard Oil – olja, makt och rikedom",
+      "release_date": "2020-01-14",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:4JnRfKf450IJyyTihmpCbH"
+    },
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/73f26e749ef041b82af8a061541044458a8bfe54",
+      "description": "Hör Magnus Viktorins intervju med Tobias Svanelid med anledning av Vetenskapsradion Historias 20-årsjubileum, där programmets och programledarens historia står i fokus.  13 januari år 2000 sändes det allra första avsnittet av Vetenskapsradion Historia. 20 år och närmare 900 program senare träffar Magnus Viktorin programledaren Tobias Svanelid för att diskutera programmets historia och höjdpunkter.",
+      "duration_ms": 874058,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6LS7WyK4mPfGa0rtsg21Be"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6LS7WyK4mPfGa0rtsg21Be",
+      "id": "6LS7WyK4mPfGa0rtsg21Be",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/31812d2a857ae1b71865092f02e4351ffcfefef3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/615d6e9b0a60210611207c94f560d2659c98d0ec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/012b6d213207e74ed1f48697f1e110d075f5b5e0",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "sv",
+      "languages": [
+        "sv"
+      ],
+      "name": "Tobias Svanelid om Vetenskapsradion Historias första 20 år",
+      "release_date": "2020-01-13",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:6LS7WyK4mPfGa0rtsg21Be"
+    },
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/a9fc7bbcbcf7e0662809ae135ed06fe204e934aa",
+      "description": "Fira med Tobias Svanelid att Vetenskapsradion Historia nu fyller 20 år! Hör ett program späckat av nostalgi men också diskussioner om historieforsknings framsteg sedan programstarten år 2000.  I januari år 2000 sändes det allra första avsnittet av Vetenskapsradion Historia. Två decennier och nära 900 program senare firar programledaren Tobias Svanelid att hans program fyller 20 år. Häng med på en nostalgikavalkad och få reda på vilka stora genombrott den svenska historiska och arkeologiska forskningen har gjort de senaste tjugo åren. Sveriges historikers Brangelina-par: Kristina Ekero Eriksson och Bo Eriksson guidar i den aktuella forskningen och diskuterar hur historiens roll förändrats i Sverige från år 2000 till idag.",
+      "duration_ms": 2685023,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6NByypVEK4DrR5hXom5ohV"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6NByypVEK4DrR5hXom5ohV",
+      "id": "6NByypVEK4DrR5hXom5ohV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cd9932ea13d97cfe28192a718d4b571e042fdc92",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/d93f719e9cde26785adfb7624289207e2b113960",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0446f70cace5bf1bef9f5ca3bababa609b0d7286",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "sv",
+      "languages": [
+        "sv"
+      ],
+      "name": "Vetenskapsradion Historia fyller 20 år!",
+      "release_date": "2020-01-07",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:6NByypVEK4DrR5hXom5ohV"
+    },
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/fe9eff69bf89827b472d98acd170ae46fa534d99",
+      "description": "Häng med Vetenskapsradion Historia till resterna av backhoppningsbacken i Slottsskogen i Göteborg för att höra om tiden då det svenska folkhemmet var backhoppningstokigt.  I början av 1900-talet byggdes uppemot 70 backhoppningsbackar i södra Sverige. Enorma ingenjörskonster låg bakom de prestigefulla anläggningarna som på sin tid drog tiotusentals åskådare. Idag söker arkeologen Magnus Ljunge efter backarnas borttynande rester för att förstå vad de kan berätta om folkhemmets Sverige. Urban Björstadius vandrar med honom uppför Bragebacken i Slottsskogen i Göteborg. Dessutom om 2019 års tio viktigaste arkeologiska upptäckter, och hur det kommer sig att Närke blivit ett så bortglömt landskap i svensk historieskrivning. Programledare är Tobias Svanelid.",
+      "duration_ms": 2685023,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6DR3H5oplKpbU5hOPB0a4w"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6DR3H5oplKpbU5hOPB0a4w",
+      "id": "6DR3H5oplKpbU5hOPB0a4w",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/fb7da0b73e31f0657383b25f88a11dc3989e50fc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/42cbaa172b1496c25db2099053befe90471dba7d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/e2d8f3e59a4c6b003d497580ba9536f0e6ac4d34",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "sv",
+      "languages": [
+        "sv"
+      ],
+      "name": "Backhoppningsbackarnas kulturarv",
+      "release_date": "2020-01-03",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:6DR3H5oplKpbU5hOPB0a4w"
+    },
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/ab14277e114e6ac4cc09c3e8b22530b5211b210c",
+      "description": "Tobias Svanelid sammanfattar historieåret 2019 bland hälsingska runor, Noas ankarstenar, tjejgänget Forty Elephants och många andra platser, från Mora och Dalsland till Ljungsarp och Hadrianus mur.  Runmysterier i Hälsingland, arkens ankarstenar vid Ararat, gigantiska katedraler i Mattisskogens Dalsland och vandringar längs murarnas mur i England. Vetenskapsradion Historia har haft ett händelserikt år och sammanfattar sin rapportering i årets krönika. Återse platserna som programmet besökt, eller passa på att få ett smakprov av det du kanske missat av historieåret 2019. Dessutom hinner Dick Harrison svara på en lyssnarfråga om de svenska jultraditionerna, och vad i dem som egentligen är kristna och inte hedniska. Programledare är Tobias Svanelid.",
+      "duration_ms": 2685023,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2fx0eEvFFWtG9vNjVjrU4b"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2fx0eEvFFWtG9vNjVjrU4b",
+      "id": "2fx0eEvFFWtG9vNjVjrU4b",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5418293925452f24a923568ecbfaeff9a28b8262",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/d153fced33e76028b2b5d8f0ce5647a0eef87006",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b1f5d319c035223ae56f9283ed470328d0834ae5",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "sv",
+      "languages": [
+        "sv"
+      ],
+      "name": "Vetenskapsradion Historias årskrönika 2019",
+      "release_date": "2019-12-24",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:2fx0eEvFFWtG9vNjVjrU4b"
+    }
+  ],
+  "limit": 10,
+  "next": "https://api.spotify.com/v1/shows/38bS44xjbVVZ3No3ByF1dJ/episodes?offset=15&limit=10&market=ES",
+  "offset": 5,
+  "previous": "https://api.spotify.com/v1/shows/38bS44xjbVVZ3No3ByF1dJ/episodes?offset=0&limit=10&market=ES",
+  "total": 500
+}
