@@ -1,0 +1,82 @@
+# Lista de metodos da API Spotify
+https://developer.spotify.com/documentation/web-api/
+https://developer.spotify.com/documentation/web-api/reference-beta/
+
+
+# Exemplo de uma aplicacao para autenticar e gerar o token (fiz um teste localhost e consegui gerar os tokens)
+https://developer.spotify.com/documentation/web-api/quick-start/  
+https://github.com/spotify/web-api-auth-examples 
+
+
+# API Episodes
+https://developer.spotify.com/documentation/web-api/reference-beta/#category-episodes
+
+Atributos:
+
+- audio_preview_url
+A URL to a 30 second preview (MP3 format) of the episode. null if not available.	String
+
+- description
+A description of the episode.	String
+
+- duration_ms
+The episode length in milliseconds.	Integer
+
+- explicit
+Whether or not the episode has explicit content (true = yes it does; false = no it does not OR unknown).	Boolean
+
+- external_urls
+External URLs for this episode.	ExternalUrlObject
+
+- href
+A link to the Web API endpoint providing full details of the episode.	String
+
+- id
+The Spotify ID for the episode.	String
+
+- images
+The cover art for the episode in various sizes, widest first.	Array[ImageObject]
+
+- is_externally_hosted
+True if the episode is hosted outside of Spotify’s CDN.	Boolean
+
+-is_playable
+True if the episode is playable in the given market. Otherwise false.	Boolean
+
+-languages
+A list of the languages used in the episode, identified by their ISO 639 code.	Array[String]
+
+- name
+The name of the episode.	String
+
+- release_date
+The date the episode was first released, for example "1981-12-15". Depending on the precision, it might be shown as "1981" or "1981-12".	String
+
+- release_date_precision
+The precision with which release_date value is known: "year", "month", or "day".	String
+
+- resume_point
+The user’s most recent position in the episode. Set if the supplied access token is a user token and has the scope user-read-playback-position.	ResumePointObject
+
+- show
+The show on which the episode belongs.	SimplifiedShowObject
+
+- type
+The object type: “episode”.	String
+
+- uri
+The Spotify URI for the episode.
+
+
+## somente Album tem atributos como:
+
+- genres
+A list of the genres used to classify the album. For example: “Prog Rock” , “Post-Grunge”. (If not yet classified, the array is empty.)
+
+- popularity
+The popularity of the album. The value will be between 0 and 100, with 100 being the most popular. The popularity is calculated from the popularity of the album’s individual tracks.
+
+
+
+
+  
